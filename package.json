@@ -1,0 +1,21 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": ">>> AND test and remember to submit (not just test!) your REST API at this automated testing link: https://dazzling-snickerdoodle-777101.netlify.app/",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0",
+    "mongoose": "^6.3.1"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
